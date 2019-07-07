@@ -8,3 +8,12 @@
 **Thoughts:** I was able to fairly quickly fix what I messed up in the JSON import/export feature in my to-do list app, but the random function in python took me a while. I spent a good chunk of time researching how to properly use random.choice and random.randint well to fit my needs. Once I read enough and had a handle on it, it took some time to implement it in the right way to have it do what I wanted it to do. I'm happy with how it turned out, but I severely underestimated how long it was going to take! I feel happy about my day 1 :)
 
 **Link to work:** [To-Do List App](https://github.com/Jacob-Bankston/To-Do-List-Version-2)      [Duplicate Email Remover App](https://github.com/Jacob-Bankston/Duplicate-Email-Remover-App)
+
+### Day 1: July 6th, 2019
+##### Researching and Raspberry
+
+**Today's Progress**: Added an additional function to my basic python Pool Table Management App to email the data that was collected out to a manager/boss person. I spent many hours looking up how to do this, and I was extremely excited when I had it actually work in the app! Since I was able to get this done I had some time to be able to get started on my raspberry pi project, the google aiy voice kit. I loved constructing the hardware and putting it into the box, and booting it up. I'm learning so much just troubleshooting errors it's crazy!
+
+**Thoughts:**: Taking on finding out how to add emails to the app was probably the longest I've researched to add functionality to a project so far, and it was easy to want to give up on it. I pushed through because I wasn't going to let research keep me from accomplishing my goal. When I was finally done with implementing it and it worked I literally screamed in excitement and ran around the house a bit. I called my wife and told her about how I was proud of it. This moment gave me the confidence to keep on tinkering and pushing because it makes the payoff afterwards that much better when you get it to work out!
+
+**Link to work:** [Pool Table Management App](https://github.com/Jacob-Bankston/practice-pool-table-management-app)
