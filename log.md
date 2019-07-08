@@ -25,4 +25,4 @@
 
 **Thoughts:**: Today's efforts were shorter bursts than the last few days and didn't stress me out as much as the bigger goals. I didn't feel as exhilarated when I finished the tasks either, although I'm definitely showing off my Google Pi to everyone I see tomorrow! I'm in a good mental space, but I can definitely tell the strain that it's putting on my relationship with my social life. It's hard to balance going hard into leveling up my coding while still trying to spend time with friends and family. Overall it was a great day! I was able to handle doing a lot of chores, spending time with Ellie and getting enough done with code to be proud of it!
 
-**Link to work:** [JavaScript30 Challenges](https://javascript30.com/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/)
+**Link to work:** [JavaScript30 Challenges](https://javascript30.com/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Shopping List Application](https://github.com/Jacob-Bankston/Shopping-List-App-2)
