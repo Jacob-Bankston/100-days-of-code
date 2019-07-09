@@ -12,3 +12,6 @@ I made a Pool Table Managment Application a few days ago, and I updated it with 
 
 ### R1D3
 I finished the Google AIY Voice Kit version 1.0 project, and have it working properly. I connected the Google Assistant and Google Speech-to-Text APIs to the pi to be able to run through the demos. I listened to an hour of "The Complete Software Developer's Career Guide" audiobook by John Sonmez. I did challenge 9 of the JavaScript30 course by Wes Bos. The Dev Tools Domination video was short, but packed with great tools to use, that I know I'll go back to in the future. I created the framework for a shopping application in python to use a json file as a storage device for the information at the end of the day as well!
+
+### R1D4
+Added a feature to the Google Voice Kit to boot up with start up. Decided to make a Raspberry Pi Twitter Bot. Did #10 of JavaScript30 and understood every line of code! Listened to 2 hours of "The Complete Software Developer's Career Guide" audiobook by John Sonmez. Attended the freecodecamp Meetup and had some good conversations with people, even an alumni. Got featured by the DigitalCrafts Marketer for my first blog post! Created a Vanilla Website with HTML and CSS for the class assignment.
