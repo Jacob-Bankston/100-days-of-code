@@ -15,3 +15,6 @@ I finished the Google AIY Voice Kit version 1.0 project, and have it working pro
 
 ### R1D4
 Added a feature to the Google Voice Kit to boot up with start up. Decided to make a Raspberry Pi Twitter Bot. Did #10 of JavaScript30 and understood every line of code! Listened to 2 hours of "The Complete Software Developer's Career Guide" audiobook by John Sonmez. Attended the freecodecamp Meetup and had some good conversations with people, even an alumni. Got featured by the DigitalCrafts Marketer for my first blog post! Created a Vanilla Website with HTML and CSS for the class assignment.
+
+### R1D5
+Went through the Video Player Creator and Key Sequence Creator videos on JavaScript 30, got into learning the shortcuts for javascript! Attended the Amazon Web Services Meetup and was thoroughly lost with the content, but loved the formatting of the meeting. Continued listening to the audiobook, it's going over resumes and tactics for applying. Good information!
