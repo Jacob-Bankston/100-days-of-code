@@ -18,3 +18,6 @@ Added a feature to the Google Voice Kit to boot up with start up. Decided to mak
 
 ### R1D5
 Went through the Video Player Creator and Key Sequence Creator videos on JavaScript 30, got into learning the shortcuts for javascript! Attended the Amazon Web Services Meetup and was thoroughly lost with the content, but loved the formatting of the meeting. Continued listening to the audiobook, it's going over resumes and tactics for applying. Good information!
+
+### R1D6
+Started and completed 13 videos in the 20 video series What the Flexbox. Listened to more of the audiobook. Finished the coding challenge for the day, and worked on my shortcut skills! Hopefully they'll begin to impact how quickly I can get my work done and navigate through the code.

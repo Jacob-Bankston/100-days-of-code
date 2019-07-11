@@ -44,3 +44,12 @@
 **Thoughts:**: I'm definitely feeling the exhaustion of continuing to push myself to do more and more. I know I'm on Day 5 of this challenge, but my bootcamp is pushing us to do a lot of code and work in itself, so the extra stuff is really tough to continue to do. I think I'm going to start setting a schedule for myself ahead of time to allow my extra curriculars to get the time they need while being able to continue healthy fitness and eating habits. This is definitely a journey, but I'm very happy with it so far!
 
 **Link to work:** [JavaScript30 Challenges](https://javascript30.com/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Positioning Website Assignment](https://github.com/Jacob-Bankston/Simple-Website-Clone)
+
+### Day 6: July 10th, 2019
+##### 
+
+**Today's Progress**: I went through 13 videos of What the Flexbox by Wes Bos. They are tremendous. It really helped me wrap my mind around the different layers of the tool, and it's going to help me design things a lot better now! I'm continuing to listen to the audiobook, and I'm liking the content still! I would recommend the audio book to anyone who is into leadership/coding mash-ups. Which I definitely am! Today at Digital Crafts we focused on CSS, flex, media queries, and responsive design, then we made a website clone that looked decent on all platforms.
+
+**Thoughts:**: Overall I definitely am starting to feel the wear of pushing myself to do so many things, but I'm proud of myself for accomplishing so much! I'm super hard on myself for wanting to do more and more, then when I do a lot, I think I could've done a few more things. I'll see how I well I'm doing in a couple of weeks. Links to Flexbox, the book and today's assignment below!
+
+**Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Simple Website Clone - Responsive Design](https://github.com/Jacob-Bankston/engadget-responsive-website)
