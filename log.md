@@ -53,3 +53,12 @@
 **Thoughts:**: Overall I definitely am starting to feel the wear of pushing myself to do so many things, but I'm proud of myself for accomplishing so much! I'm super hard on myself for wanting to do more and more, then when I do a lot, I think I could've done a few more things. I'll see how I well I'm doing in a couple of weeks. Links to Flexbox, the book and today's assignment below!
 
 **Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Simple Website Clone - Responsive Design](https://github.com/Jacob-Bankston/engadget-responsive-website)
+
+### Day 7: July 11th, 2019
+##### 
+
+**Today's Progress**: I went through 2 more videos of the What the Flexbox Series today! Very good information on Nesting flex containers and items with a good explanation on the interaction between the two! I took lots of notes! I also applied to get access to the Twitter API to work on my bot with my Raspberry Pi! Overall it was a very fun day. Today at Digital Crafts we focused on CSS Flex, implementing content from Bootstrap, learning the benefits of using Sass language, and an introduction to the available themes and boiler plates that exist out there! We had to clone our webpages from earlier in the week, and make them have a responsive ui.
+
+**Thoughts:**: Today was a great day! I feel more energized, I probably got less things done than yesterday, but I put a decent dent into a lot of different things! My Twitter page is growing, I'm getting closer on my pi bot, I got to spend more time with my wife today, and I'm making some great connections with the people at my bootcamp. I love this shift in my life towards productivity and growing and learning. I'm having a lot of fun :]
+
+**Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Bootstrap Responsive Design Website](https://github.com/Jacob-Bankston/Bootstrap-Basics-HighOnCoding-Assignment)

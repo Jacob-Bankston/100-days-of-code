@@ -21,3 +21,6 @@ Went through the Video Player Creator and Key Sequence Creator videos on JavaScr
 
 ### R1D6
 Started and completed 13 videos in the 20 video series What the Flexbox. Listened to more of the audiobook. Finished the coding challenge for the day, and worked on my shortcut skills! Hopefully they'll begin to impact how quickly I can get my work done and navigate through the code.
+
+### R1D6
+Completed video 14 and 15 in the 20 video series What the Flexbox. Listened to more of the audiobook. Applied for the Twitter API to be able to create my Twitter bot, and researched the finishing steps for the bot. Reached out to a few people to get help with reframing my LinkedIn and my Resume! Finished the coding challenge for the day, and worked on my shortcut skills!
