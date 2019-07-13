@@ -62,3 +62,12 @@
 **Thoughts:**: Today was a great day! I feel more energized, I probably got less things done than yesterday, but I put a decent dent into a lot of different things! My Twitter page is growing, I'm getting closer on my pi bot, I got to spend more time with my wife today, and I'm making some great connections with the people at my bootcamp. I love this shift in my life towards productivity and growing and learning. I'm having a lot of fun :]
 
 **Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Bootstrap Responsive Design Website](https://github.com/Jacob-Bankston/Bootstrap-Basics-HighOnCoding-Assignment)
+
+### Day 8: July 12th, 2019
+##### 
+
+**Today's Progress**: I watched four videos in the What the Flexbox tutorial video series by wes bos, and then followed that up with 7 videos in his CSS Grid course. The course is 4 hours long, so hopefully I put a solid dent into it tonight. I deeply researched into the hardware that you can use to manipulate the raspberry pi a bit more! I'm planning on going to the store on Sunday morning to see if I can get a pi zero! I've also looked into a sound playing project with the pi and a button project with the pi. I was approved by Twitter to use developer tools today, so my Twitter Bot is nearly done!
+
+**Thoughts:**: I'm very tired. It's hard to finish typing this out even though this is my last step in my blogging procedure. I have fallen asleep after midnight every day this week. I'm very much looking forward to sleeping in tomorrow! I'm excited about how productive I have been on a macro level, but I always feel like I could have pushed myself more on a micro level. I'll se if I can work on it!
+
+**Link to work:** [CSS Grid #GriddyUp](cssgrid.io) [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) 
