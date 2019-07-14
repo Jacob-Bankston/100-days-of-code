@@ -27,3 +27,6 @@ Completed video 14 and 15 in the 20 video series What the Flexbox. Listened to m
 
 ### R1D8
 Completed videos 16 - 20 in video series What the Flexbox. Completed videos 1 - 7 in CSS Grid. Listened to more of the audiobook. Was accepted to the Twitter API. Researched heavily on what things to buy for future Raspberry Pi Kits. Worked on my shortcuts for the day at the end of the day.
+
+### R1D9
+Completed videos 8 - 25 in CSS Grid. Restructured Website Layout assignment from Friday. Listened to more of the audiobook. Found the button I like for the Twitter bot. Purchased a circuit for the next project. Worked on my shortcuts a bit throughout the day and subscribed to shortcutfoo's service.

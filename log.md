@@ -71,3 +71,12 @@
 **Thoughts:**: I'm very tired. It's hard to finish typing this out even though this is my last step in my blogging procedure. I have fallen asleep after midnight every day this week. I'm very much looking forward to sleeping in tomorrow! I'm excited about how productive I have been on a macro level, but I always feel like I could have pushed myself more on a micro level. I'll se if I can work on it!
 
 **Link to work:** [CSS Grid #GriddyUp](cssgrid.io) [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) 
+
+### Day 9: July 13th, 2019
+##### 
+
+**Today's Progress**: I finished the Wes Bos video course on CSS Grid, and it really helped me wrap my mind around the functionality you can get out of it. It's not a mastered skill, but now I know the capabilities and can use it in my projects. Knowing what to google is 90% of the battle! In total I went through 17 videos today!!! It was a lot. I also reformatted my assingment from yesterday until I had it looking how I wanted it to. I spent some time researching buttons and cables for the raspberry pi and ended up purchasing the makey makey circuit board. I'm very excited to be diving down the rabbit hole of raspberry pi projects, but they are getting pretty pricey! I've planned to watch Wes Bos' video set on Mastering Markdown and a course on Emmet shortcuts for HTML and CSS. They are not super long, and will help a lot with some simple skills that will help me in the long run!
+
+**Thoughts:**: Again, I'm sleepy. I'm spending a lot of time pushing to do more and more everyday. I think I would have been happier had I done more small things today rather than knocking out the CSS Grid videos. I'm very happy to put the big video list out of the way though. When we jump into class next week we aren't really going to be spending a lot of time fiddling with the layouts of websites, so I'm glad I worked on it while I'm in this mindset. I'm glad that Ellie is being supportive and letting me work so consistently on making this career shift work! She's doing great with her challenge as well. I'm super proud of her :]
+
+**Link to work:** [CSS Grid #GriddyUp](cssgrid.io) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Website Assignment](https://github.com/Jacob-Bankston/Engadget-Website-Using-CSS-Grid)
