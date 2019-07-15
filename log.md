@@ -37,7 +37,7 @@
 **Link to work:** [JavaScript30 Challenges](https://javascript30.com/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [90s Style Website](https://github.com/Jacob-Bankston/90s-Style-Website/blob/master/index.html)
 
 ### Day 5: July 9th, 2019
-##### 
+##### JS30 Making More Sense!!
 
 **Today's Progress**: I went through 2 JavaScript 30 videos, a Custom Video Player and Key Sequence Detection. I'm able to actually keep up and some of the shortcuts he's using I actually made connections with my knowledge base to know what was going on! I want to really study and master these shortcuts now, they're so cool! I'm still listening to the audiobook in the car, and I'm really excited about all of the information he is covering. I can tell that this will give me a leg up compared to other people in the industry that are in a similar boat. I attended the Amazon Web Services Meetup and it was way over my head. They dove into subject material that was in a related field, but it was pretty cutting edge and dense material. I wasn't the only one lost, but I was definitely the most lost. The format of the Meetup was incredible, held a high regard for everyone's time, had a great turnout, had eloquent speakers, and I'm definitely going to continue to attend the gathering. I'm linking the project from my github from Digital Crafts today as well.
 
@@ -46,7 +46,7 @@
 **Link to work:** [JavaScript30 Challenges](https://javascript30.com/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Positioning Website Assignment](https://github.com/Jacob-Bankston/Simple-Website-Clone)
 
 ### Day 6: July 10th, 2019
-##### 
+##### Start Flexing!
 
 **Today's Progress**: I went through 13 videos of What the Flexbox by Wes Bos. They are tremendous. It really helped me wrap my mind around the different layers of the tool, and it's going to help me design things a lot better now! I'm continuing to listen to the audiobook, and I'm liking the content still! I would recommend the audio book to anyone who is into leadership/coding mash-ups. Which I definitely am! Today at Digital Crafts we focused on CSS, flex, media queries, and responsive design, then we made a website clone that looked decent on all platforms.
 
@@ -55,7 +55,7 @@
 **Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Simple Website Clone - Responsive Design](https://github.com/Jacob-Bankston/engadget-responsive-website)
 
 ### Day 7: July 11th, 2019
-##### 
+##### Get Sassy
 
 **Today's Progress**: I went through 2 more videos of the What the Flexbox Series today! Very good information on Nesting flex containers and items with a good explanation on the interaction between the two! I took lots of notes! I also applied to get access to the Twitter API to work on my bot with my Raspberry Pi! Overall it was a very fun day. Today at Digital Crafts we focused on CSS Flex, implementing content from Bootstrap, learning the benefits of using Sass language, and an introduction to the available themes and boiler plates that exist out there! We had to clone our webpages from earlier in the week, and make them have a responsive ui.
 
@@ -64,7 +64,7 @@
 **Link to work:** [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Bootstrap Responsive Design Website](https://github.com/Jacob-Bankston/Bootstrap-Basics-HighOnCoding-Assignment)
 
 ### Day 8: July 12th, 2019
-##### 
+##### Flexy and GriddyUp
 
 **Today's Progress**: I watched four videos in the What the Flexbox tutorial video series by wes bos, and then followed that up with 7 videos in his CSS Grid course. The course is 4 hours long, so hopefully I put a solid dent into it tonight. I deeply researched into the hardware that you can use to manipulate the raspberry pi a bit more! I'm planning on going to the store on Sunday morning to see if I can get a pi zero! I've also looked into a sound playing project with the pi and a button project with the pi. I was approved by Twitter to use developer tools today, so my Twitter Bot is nearly done!
 
@@ -73,10 +73,19 @@
 **Link to work:** [CSS Grid #GriddyUp](cssgrid.io) [What the Flexbox](https://flexbox.io/) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) 
 
 ### Day 9: July 13th, 2019
-##### 
+##### GriddyUp and Buttons
 
 **Today's Progress**: I finished the Wes Bos video course on CSS Grid, and it really helped me wrap my mind around the functionality you can get out of it. It's not a mastered skill, but now I know the capabilities and can use it in my projects. Knowing what to google is 90% of the battle! In total I went through 17 videos today!!! It was a lot. I also reformatted my assingment from yesterday until I had it looking how I wanted it to. I spent some time researching buttons and cables for the raspberry pi and ended up purchasing the makey makey circuit board. I'm very excited to be diving down the rabbit hole of raspberry pi projects, but they are getting pretty pricey! I've planned to watch Wes Bos' video set on Mastering Markdown and a course on Emmet shortcuts for HTML and CSS. They are not super long, and will help a lot with some simple skills that will help me in the long run!
 
 **Thoughts:**: Again, I'm sleepy. I'm spending a lot of time pushing to do more and more everyday. I think I would have been happier had I done more small things today rather than knocking out the CSS Grid videos. I'm very happy to put the big video list out of the way though. When we jump into class next week we aren't really going to be spending a lot of time fiddling with the layouts of websites, so I'm glad I worked on it while I'm in this mindset. I'm glad that Ellie is being supportive and letting me work so consistently on making this career shift work! She's doing great with her challenge as well. I'm super proud of her :]
 
 **Link to work:** [CSS Grid #GriddyUp](cssgrid.io) [The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/) [Website Assignment](https://github.com/Jacob-Bankston/Engadget-Website-Using-CSS-Grid)
+
+### Day 10: July 14th, 2019
+##### Markdown and Twitter
+
+**Today's Progress**: I went through the whole Mastering Markdown series by Wes Bos and got the basics of the language down. I can tell that this will be really useful in the future to type up notes. It will also be a very good tool to make my README.md files nicer! I spent about 4 hours looking through the process to actually build out my twitter bot. I was able to set up twython on my raspberry pi and update it. There were some bugs with updates and upgrades, but I got it working. I coded out the python in my ide, but it failed and couldn't connect to my Twitter acccount. I tried to connect remotely so I could copy paste the keys, but it just did not want to work with me. I'm going to try and figure it out today.
+
+**Thoughts:**: I felt like I did not accomplish as much today, but I'm glad that I put in the time. I had Oasis in the morning, set up doing a community moment in the future, probably on the pi projects, then went to Micro Center to buy more project things, then went to Jessica's Birthday Party, then went to see Aladdin with Ellie! It was a long day away from a computer screen, so I'm proud of myself for putting in the time to tinker and work on my leveling up!
+
+**Link to work:** [Mastering Markdown - Wes Bos](https://masteringmarkdown.com/)[The Complete Software Developer's Guide - John Sonmez](https://simpleprogrammer.com/products/careerguide/)

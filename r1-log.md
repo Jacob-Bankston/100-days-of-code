@@ -30,3 +30,6 @@ Completed videos 16 - 20 in video series What the Flexbox. Completed videos 1 - 
 
 ### R1D9
 Completed videos 8 - 25 in CSS Grid. Restructured Website Layout assignment from Friday. Listened to more of the audiobook. Found the button I like for the Twitter bot. Purchased a circuit for the next project. Worked on my shortcuts a bit throughout the day and subscribed to shortcutfoo's service.
+
+### R1D10
+Completed all the videos in the Mastering Markdown Series. Updated my Raspberry Pi to be up to date, added twython and set up the IDE to write out my script. Could not get remote connection to work with the pi, but I'll make it happen tomorrow!
